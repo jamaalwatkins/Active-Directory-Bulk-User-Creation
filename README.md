@@ -30,25 +30,44 @@ Create private client (Client 1) on Windows 10 virtual machine to connect to pri
 - <b>Server 2019 ISO
 
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+<h2>Set Up Two Virtual Machines and Configure Settings</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://imgur.com/bCi03F4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+<h2>Assign IP Address for Internal Network</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://imgur.com/glBuliZ.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
+<h2>Install Active Directory Domain Services and Create Domain</h2>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<p align="center">
+<img src="https://imgur.com/xmLxtJU.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+ 
+ <p align="center">
+ <h2>Configure Remote Access Server (RAS) & Network Address Translation (NAT) </h2>
+ 
+ <p align="center">
+         <h3>Allows internal clients to connect to the internet using one public IP address.<h3><br/>
+</p>
+<p align="center">
+<img src="https://imgur.com/Sm4nIMq.png" height="85%" width="85%"</h2>
+
+ </p>
+<p align="center">
+<h2>Set Up DHCP Server on Domain Controller</h2>
+<h3>Allows Windows 10 Clients to get a IP Address for Private Internet<h3><br/>
+<p align="center">
+<img src="https://imgur.com/uJH53ps.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+ 
+ <p align="center">
+<h2>Run Powershell Script to Import Active Directory Users</h2>
+
+<p align="center">
+<img src="https://imgur.com/3PttJTy.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
