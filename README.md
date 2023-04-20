@@ -94,8 +94,15 @@ Create private client (Client 1) on Windows 10 virtual machine to connect to pri
 </p>
  
  <p align="center">
-<h2>Join Domain Network</h2>
+<h2>Rename PC and Join Domain </h2>
 
 <p align="center">
-<img src="https://imgur.com/1r972MP.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://imgur.com/9h8WfPe.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
+ <p align="center">
+<h2>Windows 10 Client Computer Can Now be Signed Into With Any Account Added to Active Directory From PowerShell Script </h2>
+
+<p align="center">
+<img src="https://imgur.com/q9wDies.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
