@@ -69,5 +69,33 @@ Create private client (Client 1) on Windows 10 virtual machine to connect to pri
 <h2>Run Powershell Script to Import Active Directory Users</h2>
 
 <p align="center">
-<img src="https://imgur.com/3PttJTy.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://imgur.com/lrZhHwJ.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
+ <p align="center">
+<h2>Create Windows 10 Client and Setup Internal NIC</h2>
+
+<p align="center">
+<img src="https://imgur.com/Juo43ms.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+ 
+ <p align="center">
+<h2>Create Windows 10 Client and Setup Internal NIC</h2>
+
+<p align="center">
+<img src="https://imgur.com/Juo43ms.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+ 
+ <p align="center">
+<h2>Confirm Client Windows 10 Machine has Access to Domain Controller Internal Internet</h2>
+
+<p align="center">
+<img src="https://imgur.com/1r972MP.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+ 
+ <p align="center">
+<h2>Join Domain Network</h2>
+
+<p align="center">
+<img src="https://imgur.com/1r972MP.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
